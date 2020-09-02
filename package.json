@@ -1,0 +1,22 @@
+{
+  "name": "mini-board",
+  "version": "1.0.0",
+  "description": "Its just a small blogging kind of board for practise of NodeJS from a book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruzen1/Mini-Board.git"
+  },
+  "author": "Ruzen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruzen1/Mini-Board/issues"
+  },
+  "homepage": "https://github.com/Ruzen1/Mini-Board#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
